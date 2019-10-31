@@ -2,8 +2,8 @@ import React from 'react';
 
 export default function Map() {
   return (
-    <section>
+    <div>
       Google Map goes here.
-    </section>
+    </div>
   );
 }
