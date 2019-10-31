@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 import NavBar from './NavBar';
-import Map from './Map';
+import GoogleMap from './GoogleMap';
 import About from './About';
 import Footer from './Footer';
 
@@ -10,7 +10,7 @@ export default function App() {
   return (
     <div>
       <NavBar />
-      <Map />
+      <GoogleMap />
       <About />
       <Footer />
     </div>
