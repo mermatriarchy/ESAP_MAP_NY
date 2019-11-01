@@ -6,9 +6,10 @@ export default function Footer() {
     <Container as={`footer`} className="bg-dark" fluid={true}>
       <Row>
         <Col md={6}>
-          <p className="text-white">Copyright 2019-2020, H. Adonis Miller
-          <br/>
-          This is a community-focused project not intended for use by police, military personnel or any adjacent third party affiliates or contractors; it is not intended to aid in surveillence of our communities in any capacity.</p>
+          <p className="text-white">
+            Copyright 2019-2020, H. Adonis Miller
+            <br/>
+            <span className="font-weight-light">This is a community-focused project not intended for use by police, military personnel or any adjacent third party affiliates or contractors; it is not intended to aid in surveillence of our communities in any capacity.</span></p>
         </Col>
       </Row>
       <Row>
