@@ -9,8 +9,8 @@ export default function NavBar() {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
      <Navbar.Collapse className="justify-content-end">
      <Nav>
-        <Nav.Link href="#map">Map</Nav.Link>
-        <Nav.Link href="#about" >About</Nav.Link>
+        <Nav.Link href="/">Map</Nav.Link>
+        <Nav.Link href="/about" >About</Nav.Link>
       </Nav>
      </Navbar.Collapse>
     </Navbar>
