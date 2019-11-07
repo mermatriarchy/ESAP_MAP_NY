@@ -626,7 +626,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /*!***************************************************************!*\
   !*** ./node_modules/react-router-dom/esm/react-router-dom.js ***!
   \***************************************************************/
-/*! exports provided: BrowserRouter, HashRouter, Link, NavLink, MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, __RouterContext, generatePath, matchPath, useHistory, useLocation, useParams, useRouteMatch, withRouter */
+/*! exports provided: MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, __RouterContext, generatePath, matchPath, useHistory, useLocation, useParams, useRouteMatch, withRouter, BrowserRouter, HashRouter, Link, NavLink */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -906,6 +906,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var reac
 
 /***/ }),
 
+/***/ "./src/reducers/index.js":
+/*!*******************************!*\
+  !*** ./src/reducers/index.js ***!
+  \*******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var redux__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! redux */ \"./node_modules/redux/es/redux.js\");\n!(function webpackMissingModule() { var e = new Error(\"Cannot find module './GoogleMap'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n!(function webpackMissingModule() { var e = new Error(\"Cannot find module './About'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Object(redux__WEBPACK_IMPORTED_MODULE_0__[\"combineReducers\"])({\n  about: !(function webpackMissingModule() { var e = new Error(\"Cannot find module './About'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }()),\n  map: !(function webpackMissingModule() { var e = new Error(\"Cannot find module './GoogleMap'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }())\n}));//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvcmVkdWNlcnMvaW5kZXguanMuanMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvcmVkdWNlcnMvaW5kZXguanM/NzI4OSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBjb21iaW5lUmVkdWNlcnMgfSBmcm9tICdyZWR1eCc7XG5pbXBvcnQgR29vZ2xlTWFwIGZyb20gXCIuL0dvb2dsZU1hcFwiO1xuaW1wb3J0IEFib3V0IGZyb20gXCIuL0Fib3V0XCI7XG5cbmV4cG9ydCBkZWZhdWx0IGNvbWJpbmVSZWR1Y2Vycyh7XG4gIGFib3V0OiBBYm91dCxcbiAgbWFwOiBHb29nbGVNYXAsXG59KTsiXSwibWFwcGluZ3MiOiJBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFDQTtBQUNBO0FBRUE7QUFDQTtBQUNBO0FBRkEiLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/reducers/index.js\n");
+
+/***/ }),
+
 /***/ "./src/router/Routes.js":
 /*!******************************!*\
   !*** ./src/router/Routes.js ***!
@@ -914,7 +926,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var reac
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _components_About__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/About */ \"./src/components/About.js\");\n/* harmony import */ var _components_GoogleMap__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/GoogleMap */ \"./src/components/GoogleMap.js\");\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  component: _components_About__WEBPACK_IMPORTED_MODULE_0__[\"default\"],\n  path: '/about'\n}, {\n  component: _components_GoogleMap__WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  path: '/',\n  exact: true\n}]);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvcm91dGVyL1JvdXRlcy5qcy5qcyIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL3NyYy9yb3V0ZXIvUm91dGVzLmpzPzQzMjEiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEFib3V0IGZyb20gXCIuLi9jb21wb25lbnRzL0Fib3V0XCI7XG5pbXBvcnQgR29vZ2xlTWFwIGZyb20gXCIuLi9jb21wb25lbnRzL0dvb2dsZU1hcFwiO1xuXG5leHBvcnQgZGVmYXVsdCBbXG4gIHtcbiAgICBjb21wb25lbnQ6IEFib3V0LFxuICAgIHBhdGg6ICcvYWJvdXQnLFxuICB9LFxuICB7XG4gICAgY29tcG9uZW50OiBHb29nbGVNYXAsXG4gICAgcGF0aDogJy8nLFxuICAgIGV4YWN0OiB0cnVlXG4gIH1cbl07Il0sIm1hcHBpbmdzIjoiQUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBRUE7QUFFQTtBQUNBO0FBRkE7QUFLQTtBQUNBO0FBQ0E7QUFIQSIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/router/Routes.js\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _components_About__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/About */ \"./src/components/About.js\");\n/* harmony import */ var _components_GoogleMap__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/GoogleMap */ \"./src/components/GoogleMap.js\");\n\n\nvar Routes = [{\n  component: _components_About__WEBPACK_IMPORTED_MODULE_0__[\"default\"],\n  path: '/about'\n}, {\n  component: _components_GoogleMap__WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  path: '/',\n  exact: true\n}];\n/* harmony default export */ __webpack_exports__[\"default\"] = (Routes);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvcm91dGVyL1JvdXRlcy5qcy5qcyIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL3NyYy9yb3V0ZXIvUm91dGVzLmpzPzQzMjEiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEFib3V0IGZyb20gXCIuLi9jb21wb25lbnRzL0Fib3V0XCI7XG5pbXBvcnQgR29vZ2xlTWFwIGZyb20gXCIuLi9jb21wb25lbnRzL0dvb2dsZU1hcFwiO1xuXG5jb25zdCBSb3V0ZXMgPSBbXG4gIHtcbiAgICBjb21wb25lbnQ6IEFib3V0LFxuICAgIHBhdGg6ICcvYWJvdXQnLFxuICB9LFxuICB7XG4gICAgY29tcG9uZW50OiBHb29nbGVNYXAsXG4gICAgcGF0aDogJy8nLFxuICAgIGV4YWN0OiB0cnVlXG4gIH1cbl07XG5cbmV4cG9ydCBkZWZhdWx0IFJvdXRlczsiXSwibWFwcGluZ3MiOiJBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQ0E7QUFFQTtBQUVBO0FBQ0E7QUFGQTtBQUtBO0FBQ0E7QUFDQTtBQUhBO0FBT0EiLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/router/Routes.js\n");
 
 /***/ }),
 
@@ -938,7 +950,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var reac
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var redux__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! redux */ \"./node_modules/redux/es/redux.js\");\n/* harmony import */ var redux_thunk__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! redux-thunk */ \"./node_modules/redux-thunk/es/index.js\");\n //import rootReducer from \"./reducers\";\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Object(redux__WEBPACK_IMPORTED_MODULE_0__[\"createStore\"])({}, Object(redux__WEBPACK_IMPORTED_MODULE_0__[\"applyMiddleware\"])(redux_thunk__WEBPACK_IMPORTED_MODULE_1__[\"default\"])));//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvc3RvcmUuanMuanMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvc3RvcmUuanM/YzBkNiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBhcHBseU1pZGRsZXdhcmUsIGNyZWF0ZVN0b3JlIH0gZnJvbSBcInJlZHV4XCI7XG4vL2ltcG9ydCByb290UmVkdWNlciBmcm9tIFwiLi9yZWR1Y2Vyc1wiO1xuaW1wb3J0IHJlZHV4VGh1bmsgZnJvbSBcInJlZHV4LXRodW5rXCI7XG5cbmV4cG9ydCBkZWZhdWx0IGNyZWF0ZVN0b3JlKHt9LCBhcHBseU1pZGRsZXdhcmUocmVkdXhUaHVuaykpOyJdLCJtYXBwaW5ncyI6IkFBQUE7QUFBQTtBQUFBO0FBQUE7QUFDQTtBQUNBO0FBRUEiLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/store.js\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var redux__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! redux */ \"./node_modules/redux/es/redux.js\");\n/* harmony import */ var _reducers__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./reducers */ \"./src/reducers/index.js\");\n/* harmony import */ var redux_thunk__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! redux-thunk */ \"./node_modules/redux-thunk/es/index.js\");\n\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Object(redux__WEBPACK_IMPORTED_MODULE_0__[\"createStore\"])({}, Object(redux__WEBPACK_IMPORTED_MODULE_0__[\"applyMiddleware\"])(redux_thunk__WEBPACK_IMPORTED_MODULE_2__[\"default\"])));//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvc3RvcmUuanMuanMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvc3RvcmUuanM/YzBkNiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBhcHBseU1pZGRsZXdhcmUsIGNyZWF0ZVN0b3JlIH0gZnJvbSBcInJlZHV4XCI7XG5pbXBvcnQgcm9vdFJlZHVjZXIgZnJvbSBcIi4vcmVkdWNlcnNcIjtcbmltcG9ydCByZWR1eFRodW5rIGZyb20gXCJyZWR1eC10aHVua1wiO1xuXG5leHBvcnQgZGVmYXVsdCBjcmVhdGVTdG9yZSh7fSwgYXBwbHlNaWRkbGV3YXJlKHJlZHV4VGh1bmspKTsiXSwibWFwcGluZ3MiOiJBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFDQTtBQUNBO0FBRUEiLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/store.js\n");
 
 /***/ })
 

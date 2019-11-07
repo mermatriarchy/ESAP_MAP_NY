@@ -1,7 +1,7 @@
 import About from "../components/About";
 import GoogleMap from "../components/GoogleMap";
 
-export default [
+const Routes = [
   {
     component: About,
     path: '/about',
@@ -12,3 +12,5 @@ export default [
     exact: true
   }
 ];
+
+export default Routes;
