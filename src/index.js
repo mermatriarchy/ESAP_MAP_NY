@@ -1,10 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import React from "react";
+import ReactDOM from "react-dom";
+import "bootstrap/dist/css/bootstrap.min.css";
 
-import App from './components/App';
+import App from "./components/App";
 
-ReactDOM.hydrate(
-  <App />,
-  document.getElementById('mountNode'),
-);
+ReactDOM.render(<App />, document.getElementById("app"));
