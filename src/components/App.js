@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+import React from "react";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 import NavBar from "./NavBar";
 import GoogleMap from "./GoogleMap";
@@ -7,11 +8,13 @@ import Footer from "./Footer";
 
 export default function App() {
   return (
-    <div>
+    <Router>
       <NavBar />
-      <GoogleMap />
-      <About />
+      <Switch>
+        <Route exact path="/" component={GoogleMap} />
+        <Route exact path="/about" component={About} />
+      </Switch>
       <Footer />
-    </div>
+    </Router>
   );
 }
