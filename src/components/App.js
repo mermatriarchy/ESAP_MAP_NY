@@ -3,8 +3,9 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 import NavBar from "./NavBar";
 import GoogleMap from "./GoogleMap";
-import About from "./About";
-import Footer from "./Footer";
+import PageNotFound from "./PageNotFound";
+import About from "./common/About";
+import Footer from "./common/Footer";
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
       <Switch>
         <Route exact path="/" component={GoogleMap} />
         <Route exact path="/about" component={About} />
+        <Route component={PageNotFound} />
       </Switch>
       <Footer />
     </Router>
