@@ -1,0 +1,121 @@
+{
+  "healthcare_providers": [
+    {
+      "ID": 1,
+      "County": "BRONX",
+      "PROVIDER NAME": "CYNDY BOWERS, RPAB2:817",
+      "ADDRESS": "953 SOUTHERN BLVD., STE. 302",
+      "CITY": "BRONX",
+      "ZIP": 10459,
+      "PHONE NUMBER": ""
+    },
+    {
+      "ID": 2,
+      "County": "KINGS",
+      "PROVIDER NAME": "JORDAN B. GLASER, MD, PC",
+      "ADDRESS": "2261 CHURCH ST.",
+      "CITY": "BROOKLYN",
+      "ZIP": 11226,
+      "PHONE NUMBER": "(347) 505-5100"
+    },
+    {
+      "ID": 3,
+      "County": "KINGS",
+      "PROVIDER NAME": "ADEDAYO ADEDEJI, MD /BATF",
+      "ADDRESS": "2261 CHURCH ST.",
+      "CITY": "BROOKLYN",
+      "ZIP": 11226,
+      "PHONE NUMBER": "(718) 622-2910"
+    },
+    {
+      "ID": 4,
+      "County": "KINGS",
+      "PROVIDER NAME": "HYACINTH GORDON",
+      "ADDRESS": "2261 CHURCH ST.",
+      "CITY": "BROOKLYN",
+      "ZIP": 11226,
+      "PHONE NUMBER": ""
+    },
+    {
+      "ID": 5,
+      "County": "KINGS",
+      "PROVIDER NAME": "KETIE SAINTELUS",
+      "ADDRESS": "6209 16TH ST.",
+      "CITY": "BROOKLYN",
+      "ZIP": 11219,
+      "PHONE NUMBER": "(718) 784-5690"
+    },
+    {
+      "ID": 6,
+      "County": "MONROE",
+      "PROVIDER NAME": "KRISTIN E SMITH, NP",
+      "ADDRESS": "259 MONROE AVE.",
+      "CITY": "ROCHESTER",
+      "ZIP": 14607,
+      "PHONE NUMBER": "(585) 210-4128"
+    },
+    {
+      "ID": 7,
+      "County": "NASSAU",
+      "PROVIDER NAME": "PAT DELLATTO, NP",
+      "ADDRESS": "30 NEWBRIDGE RD.",
+      "CITY": "EAST MEADOW",
+      "ZIP": 11554,
+      "PHONE NUMBER": "(516) 605-1676"
+    },
+    {
+      "ID": 8,
+      "County": "NASSAU",
+      "PROVIDER NAME": "MURIEL GORDON",
+      "ADDRESS": "100 BROADHOLLOW RD., STE. 100",
+      "CITY": "FARMINGDALE",
+      "ZIP": 11735,
+      "PHONE NUMBER": "(631) 225-5500"
+    },
+    {
+      "ID": 9,
+      "County": "NEW YORK",
+      "PROVIDER NAME": "ANGELA BUNYAN, PA",
+      "ADDRESS": "123 W. 130TH ST",
+      "CITY": "NEW YORK",
+      "ZIP": 10027,
+      "PHONE NUMBER": ""
+    },
+    {
+      "ID": 10,
+      "County": "NEW YORK",
+      "PROVIDER NAME": "LEAH STROCK, NP",
+      "ADDRESS": "64 W. 35TH ST., 3RD FLR",
+      "CITY": "NEW YORK",
+      "ZIP": 10001,
+      "PHONE NUMBER": "(212) 645-0875"
+    },
+    {
+      "ID": 11,
+      "County": "RICHMOND",
+      "PROVIDER NAME": "ANSELL HORN, NP",
+      "ADDRESS": "25 CENTRAL AVE.",
+      "CITY": "STATEN ISLAND",
+      "ZIP": 10301,
+      "PHONE NUMBER": "(718) 720-0079"
+    },
+    {
+      "ID": 12,
+      "County": "RICHMOND",
+      "PROVIDER NAME": "ADRIENNE BRUCCOLERI, NP",
+      "ADDRESS": "56 BAY ST.",
+      "CITY": "STATEN ISLAND",
+      "ZIP": 10301,
+      "PHONE NUMBER": "(718) 541-9831"
+    },
+    {
+      "ID": 13,
+      "County": "TOMPKINS",
+      "PROVIDER NAME": "DR. JOHN BEZIRGANIAN, MD",
+      "ADDRESS": "201 E. GREEN ST., STE. 500",
+      "CITY": "ITHACA",
+      "ZIP": 14850,
+      "PHONE NUMBER": "(607) 274-6288"
+    }
+  ]
+}

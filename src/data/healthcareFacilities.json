@@ -1,0 +1,202 @@
+{
+  "healthcare_facilities": [
+    {
+      "ID": 1,
+      "County": "ALBANY",
+      "HEALTH CARE FACILITY NAME": "WHITNEY M. YOUNG JR. HEALTH SERVICES",
+      "ADDRESS": "920 LARK DR.",
+      "CITY": "ALBANY",
+      "ZIP CODE": 12207,
+      "PHONE NUMBER": "(518) 427-0102"
+    },
+    {
+      "ID": 2,
+      "County": "BRONX",
+      "HEALTH CARE FACILITY NAME": "VOCATIONAL INSTRUCTION PROJECT COMMUNITY SERVICES, INC.",
+      "ADDRESS": "1910 ARTHUR AVE.",
+      "CITY": "BRONX",
+      "ZIP CODE": 10457,
+      "PHONE NUMBER": "(718) 583-5150"
+    },
+    {
+      "ID": 3,
+      "County": "CHAUTAUQUA",
+      "HEALTH CARE FACILITY NAME": "Evergreen Health Services",
+      "ADDRESS": "111 W. SECOND ST., 3RD FLR.",
+      "CITY": "JAMESTOWN",
+      "ZIP CODE": 14701,
+      "PHONE NUMBER": "(716) 847-2441"
+    },
+    {
+      "ID": 4,
+      "County": "CHENANGO",
+      "HEALTH CARE FACILITY NAME": "VALLEY VIEW MANOR NURSING HOME, INC.",
+      "ADDRESS": "40 PARK ST.",
+      "CITY": "NORWICH",
+      "ZIP CODE": 13815,
+      "PHONE NUMBER": "(607) 334-9931"
+    },
+    {
+      "ID": 5,
+      "County": "DUTCHESS",
+      "HEALTH CARE FACILITY NAME": "VASSAR BROTHERS HOSPITAL PHARMACY",
+      "ADDRESS": "45 READE PL.",
+      "CITY": "POUGHKEEPSIE",
+      "ZIP CODE": 12601,
+      "PHONE NUMBER": "(845) 437-3042"
+    },
+    {
+      "ID": 6,
+      "County": "DUTCHESS",
+      "HEALTH CARE FACILITY NAME": "WINGATE AT ST. FRANCIS",
+      "ADDRESS": "10 HASTINGS DR.",
+      "CITY": "BEACON",
+      "ZIP CODE": 12508,
+      "PHONE NUMBER": "(845) 440-1600"
+    },
+    {
+      "ID": 7,
+      "County": "ERIE",
+      "HEALTH CARE FACILITY NAME": "Evergreen Health Services",
+      "ADDRESS": "206 S. ELMWOOD AVE.",
+      "CITY": "BUFFALO",
+      "ZIP CODE": 14201,
+      "PHONE NUMBER": "(716) 847-2441"
+    },
+    {
+      "ID": 8,
+      "County": "FRANKLIN",
+      "HEALTH CARE FACILITY NAME": "ADIRONDACK MEDICAL CTR. - PHARMACY DEPT.",
+      "ADDRESS": "LAKE COLBY DR.",
+      "CITY": "SARANAC LAKE",
+      "ZIP CODE": 12983,
+      "PHONE NUMBER": "(518) 897-4578"
+    },
+    {
+      "ID": 9,
+      "County": "GREENE",
+      "HEALTH CARE FACILITY NAME": "THE PINES AT CATSKILL",
+      "ADDRESS": "154 JEFFERSON HTS.",
+      "CITY": "CATSKILL",
+      "ZIP CODE": 12414,
+      "PHONE NUMBER": "(518) 943-5151"
+    },
+    {
+      "ID": 10,
+      "County": "KINGS",
+      "HEALTH CARE FACILITY NAME": "VCNY AIDS DAY TREATMENT PROGRAM - RED HOOK",
+      "ADDRESS": "83 COFFEY ST.",
+      "CITY": "BROOKLYN",
+      "ZIP CODE": 11231,
+      "PHONE NUMBER": "(212) 337-7224"
+    },
+    {
+      "ID": 11,
+      "County": "KINGS",
+      "HEALTH CARE FACILITY NAME": "BEDFORD STUYVESANT FAMILY HEALTH CTR.",
+      "ADDRESS": "1413 FULTON ST.",
+      "CITY": "BROOKLYN",
+      "ZIP CODE": 11216,
+      "PHONE NUMBER": "(718) 636-4500"
+    },
+    {
+      "ID": 12,
+      "County": "KINGS",
+      "HEALTH CARE FACILITY NAME": "WYCKOFF HEIGHTS MEDICAL CENTER DEPARTMENT OF FAMILY PRACTICE",
+      "ADDRESS": "374 STOCKHOLM ST.",
+      "CITY": "BROOKLYN",
+      "ZIP CODE": 11237,
+      "PHONE NUMBER": "(718) 963-6730"
+    },
+    {
+      "ID": 13,
+      "County": "MONROE",
+      "HEALTH CARE FACILITY NAME": "STRONG MEMORIAL HOSPITAL",
+      "ADDRESS": "601 ELMWOOD AVE.",
+      "CITY": "ROCHESTER",
+      "ZIP CODE": 14642,
+      "PHONE NUMBER": "(716) 275-4931"
+    },
+    {
+      "ID": 14,
+      "County": "NEW YORK",
+      "HEALTH CARE FACILITY NAME": "VCNY AIDS DAY TREATMENT PROGRAM",
+      "ADDRESS": "121B W. 20TH ST.",
+      "CITY": "NEW YORK",
+      "ZIP CODE": 10011,
+      "PHONE NUMBER": "(212) 337-7224"
+    },
+    {
+      "ID": 15,
+      "County": "NEW YORK",
+      "HEALTH CARE FACILITY NAME": "Mount Sinai West (Formerly ST. LUKES-ROOSEVELT HOSPITAL)",
+      "ADDRESS": "1000 TENTH AVE.",
+      "CITY": "NEW YORK",
+      "ZIP CODE": 10019,
+      "PHONE NUMBER": "(212) 523-4000"
+    },
+    {
+      "ID": 16,
+      "County": "NEW YORK",
+      "HEALTH CARE FACILITY NAME": "PLANNED PARENTHOOD OF NEW YORK CITY, INC.",
+      "ADDRESS": "26 BLEECKER ST.",
+      "CITY": "NEW YORK",
+      "ZIP CODE": 10012,
+      "PHONE NUMBER": "(212) 965-7000"
+    },
+    {
+      "ID": 17,
+      "County": "NEW YORK",
+      "HEALTH CARE FACILITY NAME": "PLANNED PARENTHOOD OF NEW YORK CITY/PROJECT STREET BEAT",
+      "ADDRESS": "26 BLEECKER ST.",
+      "CITY": "NEW YORK",
+      "ZIP CODE": 10012,
+      "PHONE NUMBER": "(212) 965-7000"
+    },
+    {
+      "ID": 18,
+      "County": "NEW YORK",
+      "HEALTH CARE FACILITY NAME": "Mount Sinai St. Luke's (Formerly ST LUKES-ROOSEVELT HOSPITAL CENTER)",
+      "ADDRESS": "1111 AMSTERDAM AVE",
+      "CITY": "NEW YORK",
+      "ZIP CODE": 10025,
+      "PHONE NUMBER": ""
+    },
+    {
+      "ID": 19,
+      "County": "NEW YORK",
+      "HEALTH CARE FACILITY NAME": "WILLIAM F. RYAN COMMUNITY HEALTH CENTER",
+      "ADDRESS": "110 W. 97 ST.",
+      "CITY": "NEW YORK",
+      "ZIP CODE": 10025,
+      "PHONE NUMBER": "(212) 749-1820"
+    },
+    {
+      "ID": 20,
+      "County": "NEW YORK",
+      "HEALTH CARE FACILITY NAME": "UPPER ROOM AIDS MINISTRY ADHC",
+      "ADDRESS": "123-125 W 124TH ST.",
+      "CITY": "NEW YORK",
+      "ZIP CODE": 10027,
+      "PHONE NUMBER": "(212) 531-1300"
+    },
+    {
+      "ID": 21,
+      "County": "ONONDAGA",
+      "HEALTH CARE FACILITY NAME": "ROSEWOOD HEIGHTS HEALTH CENTER",
+      "ADDRESS": "6145 CROUSE AVE.",
+      "CITY": "SYRACUSE",
+      "ZIP CODE": 13210,
+      "PHONE NUMBER": "(315) 474-4431"
+    },
+    {
+      "ID": 22,
+      "County": "WYOMING",
+      "HEALTH CARE FACILITY NAME": "WYOMING COUNTY HEALTH DEPARTMENT",
+      "ADDRESS": "5362 MUNGERS MILL RD.",
+      "CITY": "SILVER SPRINGS",
+      "ZIP CODE": 14550,
+      "PHONE NUMBER": "(585) 786-8890"
+    }
+  ]
+}
