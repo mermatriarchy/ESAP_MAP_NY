@@ -11,30 +11,30 @@ This map shows the location of ESAP participants in New York state, so users can
 ReactJS
 
 ## TO DO
-[x] Convert pdf to csv/json files
-[x] Get Google Maps API Key
-[ ] Set up Google Map API to ingest JSON files
-[ ] Get clusters to render NY ESAP providers
-[ ] Add About page
-[ ] Make it pretty
-[ ] Anchor footer div to bottom of page
-[ ] Mobile-friendly checks
-[ ] GTM
-[ ] Buy domain name
-[ ] Set up Heroku servers
-[ ] Production build
-[ ] Process documentation & project summary
+[x] Convert pdf to csv/json files<br>
+[x] Get Google Maps API Key<br>
+[ ] Set up Google Map API to ingest JSON files<br>
+[ ] Get clusters to render NY ESAP providers<br>
+[ ] Add About page<br>
+[ ] Make it pretty<br>
+[ ] Anchor footer div to bottom of page<br>
+[ ] Mobile-friendly checks<br>
+[ ] GTM<br>
+[ ] Buy domain name<br>
+[ ] Set up Heroku servers<br>
+[ ] Production build<br>
+[ ] Process documentation & project summary<br>
 
 ## Wish List
-[ ] List View
-[ ] Sort by: Pharmacy, Provider, Facilities
-[ ] Search by zip code
-[ ] Fuzzy Search
+[ ] List View<br>
+[ ] Sort by: Pharmacy, Provider, Facilities<br>
+[ ] Search by zip code<br>
+[ ] Fuzzy Search<br>
 
 ## Services Used / Sources Consulted
-- List of ESAP providers: (https://www.health.ny.gov/diseases/aids/providers/prevention/harm_reduction/needles_syringes/esap/provdirect.htm)
-- For converting pdf to csv: (https://www.zamzar.com/)
-- For converting csv to json: (https://www.csvjson.com/csv2json)
+- List of ESAP providers: https://www.health.ny.gov/diseases/aids/providers/prevention/harm_reduction/needles_syringes/esap/provdirect.htm
+- For converting pdf to csv: https://www.zamzar.com/
+- For converting csv to json: https://www.csvjson.com/csv2json
 
 ## See Also
 A primer on harm reduction via Queer Appalachia
