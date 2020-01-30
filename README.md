@@ -37,4 +37,4 @@ ReactJS
 - For converting csv to json: https://www.csvjson.com/csv2json
 
 ## See Also
-A primer on harm reduction via Queer Appalachia
+A primer on harm reduction via Queer Appalachia: https://www.instagram.com/p/B6RmJAvFQ7i/
