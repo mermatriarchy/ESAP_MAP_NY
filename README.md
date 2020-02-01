@@ -1,11 +1,11 @@
 # ESAP_MAP_NY
 
 ## About
-The ESAP (Expanded Syringe Access Program) is a public health initiative in New York state that increases access to sterile needles. Under ESAP, individuals can obtain needles without needing a medical prescription from participating providers & practitioners. 
+The ESAP (Expanded Syringe Access Program) is a public health initiative in New York state that increases access to sterile needles. Under ESAP, individuals can obtain needles from participating providers & practitioners without a medical prescription. 
 
 This map shows the location of ESAP participants in New York state, so users can more easily look up providers in their area (the NYS health site has a long list of providers in a PDF).
 
-**This project is in no way associated with NYS, the government, or the Department of Health.** I just wanted to build out this project because I thought there was a better and easier way to find providers, rather than digging through the NYS website & scrolling thru a long long list of providers.
+**This project is in no way associated with or funded by NYS, the government, or the Department of Health.** I just wanted to build out this project because I thought there was a better and easier way to find providers, rather than digging through the NYS website & scrolling thru a long long list of providers.
 
 ## Libraries
 ReactJS
