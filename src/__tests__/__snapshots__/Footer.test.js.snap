@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`correctly renders About component 1`] = `
+<footer
+  className="bg-dark container-fluid"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-6"
+    >
+      <p
+        className="text-white"
+      >
+        Copyright 2019-2020, H. Adonis Miller
+        <br />
+        <span
+          className="font-weight-light"
+        >
+          This is a community-focused project not intended for use by police, military personnel or any adjacent third party affiliates or contractors; it is not intended to aid in surveillence of our communities in any capacity.
+        </span>
+      </p>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      <dl>
+        <dd>
+          <a
+            className="text-info"
+            href=""
+          >
+            Source
+          </a>
+        </dd>
+        <dd>
+          <a
+            className="text-info"
+            href=""
+          >
+            Report a technical issue
+          </a>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</footer>
+`;
