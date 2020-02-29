@@ -1,9 +1,10 @@
 import React from 'react';
-import {Container, Row, Col} from 'react-bootstrap/';
+import { Container, Row, Col } from 'react-bootstrap/';
 
 export default function Footer() {
   return (
     <Container as={`footer`} className="bg-dark" fluid={true}>
+      <Container>
       <Row>
         <Col md={6}>
           <p className="text-white">
@@ -15,11 +16,12 @@ export default function Footer() {
       <Row>
         <Col>
           <dl>
-            <dd><a href="" className="text-info">Source</a></dd>
-            <dd><a href="" className="text-info">Report a technical issue</a></dd>
+            <dd><a href="https://github.com/mermatriarchy/ESAP_MAP_NY" className="text-info">Source</a></dd>
+            <dd><a href="https://github.com/mermatriarchy/ESAP_MAP_NY/issues" className="text-info">Report a technical issue</a></dd>
           </dl>
         </Col>
       </Row>
+      </Container>
     </Container>
   );
 }

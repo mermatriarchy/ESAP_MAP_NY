@@ -1,9 +1,10 @@
 import React from 'react';
+import { Container } from 'react-bootstrap';
 
 export default function GoogleMap() {
   return (
-    <div>
+    <Container>
       Google Map goes here.
-    </div>
+    </Container>
   );
 }
