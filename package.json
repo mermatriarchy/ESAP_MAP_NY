@@ -21,7 +21,7 @@
   "homepage": "https://github.com/mermatriarchy/ESAP_MAP_NY#readme",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "immer": "2.1.3",
+    "immer": "8.0.1",
     "jquery": "^3.5.0",
     "pdf-parser": "^1.0.5",
     "pdf2json": "^1.1.8",
